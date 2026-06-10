@@ -1,1 +1,0 @@
-helloworld("console.log")
